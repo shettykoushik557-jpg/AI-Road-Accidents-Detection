@@ -1,0 +1,6 @@
+# Ignore YOLO model weights
+*.pt
+yolov8n.pt
+
+# Ignore Python virtual environment
+venv/
